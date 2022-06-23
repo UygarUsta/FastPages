@@ -1,1 +1,1 @@
-Sitemap: https://uygarusta.github.io/UygarUsta/sitemap.xml
+Sitemap: https://uygarusta.github.io/FastPages/sitemap.xml
